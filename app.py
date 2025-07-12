@@ -125,4 +125,4 @@ elif user_input and not user_input.isdigit():
     st.error("Please enter a valid numeric user ID.")
 
 st.markdown("---")
-st.caption("Powered by MovieLens 100k | Built with ❤️ using Streamlit")
+
